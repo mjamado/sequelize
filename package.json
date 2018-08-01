@@ -59,7 +59,7 @@
     "jsdoc": "^3.5.5",
     "lcov-result-merger": "^3.0.0",
     "mocha": "^5.x",
-    "mysql2": "^1.x",
+    "mysql2": "1.5.3",
     "pg": "^7.x",
     "pg-hstore": "^2.x",
     "pg-native": "^3.0.0",
